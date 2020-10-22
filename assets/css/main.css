@@ -1,0 +1,14 @@
+.card-item {
+    position: relative;
+    top: 60px;
+}
+
+.icon-image {
+    width: 30px;
+    height: 30px;
+}
+
+.card-title {
+    display: flex;
+    flex-direction: row;
+}
